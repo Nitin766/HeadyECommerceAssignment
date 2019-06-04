@@ -1,0 +1,7 @@
+
+•squid:S1319"wThe type of the "productsList" object should be an interface such as "List" rather than the implementation "ArrayList".(ì¡ìÅ8èÄ˜™²-
+…squid:S1488"bImmediately return this expression instead of assigning it to the temporary variable "viewHolder".(¶¯ÀŞûÿÿÿÿ8¤«Áî±-
+0squid:S21768"Rename this class.(¯ôšÔ8¤«Áî±-
+„squid:UselessImportCheck"TRemove this unused import 'com.assignment.ecommerce.activities.ProductHomeActivity'.(ã—¼Äüÿÿÿÿ8ÊÖ£œ²-
+‹"squid:ClassVariableVisibilityCheck:"VMake productsLL a static final constant or non-public and provide accessors if needed.(Ğ”®¹8•õ›²-
+‘"squid:ClassVariableVisibilityCheck9"WMake productName a static final constant or non-public and provide accessors if needed.(‹©»‡ÿÿÿÿÿ8ÇµÚ˜²-

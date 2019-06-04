@@ -1,0 +1,4 @@
+
+“squid:S13194"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ñ¢ıÿÿÿÿ8¯š”˜±-
+–squid:S13198"sThe type of the "variants" object should be an interface such as "List" rather than the implementation "ArrayList".(ÅöÌ­úÿÿÿÿ8¯š”˜±-
+‘squid:S1319"sThe type of the "variants" object should be an interface such as "List" rather than the implementation "ArrayList".(ªî´ç8šï³™±-

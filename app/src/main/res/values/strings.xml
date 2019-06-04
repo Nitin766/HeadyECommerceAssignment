@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ECommerce</string>
+    <string name="product_id">Product ID</string>
+    <string name="product_name">Product Name</string>
+    <string name="tax">Tax</string>
+    <string name="colors">Colors</string>
+    <string name="sizes">Sizes</string>
+    <string name="price">Price</string>
+
+
+    <string name="downloading_data">Downloading data. Please wait..</string>
+    <string name="fetching_category">Fetching Category...</string>
+    <string name="fetching_product">Fetching Product Detail...</string>
+
+
+    <string name="no_data_available">No Data Available.</string>
+    <string name="network_error">Something went wrong...Please try later!</string>
+</resources>

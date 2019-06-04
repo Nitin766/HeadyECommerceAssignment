@@ -1,0 +1,7 @@
+
+squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(œˆŸ8œË•±-
+“squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ò¶´“ÿÿÿÿÿ8œË•±-
+œsquid:S1319"yThe type of the "categoriesList" object should be an interface such as "List" rather than the implementation "ArrayList".(àÊ†¬øÿÿÿÿ8œË•±-
+™squid:S1319"vThe type of the "rankingList" object should be an interface such as "List" rather than the implementation "ArrayList".(û°‘¬ùÿÿÿÿ8œË•±-
+—squid:S1319"yThe type of the "categoriesList" object should be an interface such as "List" rather than the implementation "ArrayList".(ßİºÈ8åØ±™±-
+”squid:S1319"vThe type of the "rankingList" object should be an interface such as "List" rather than the implementation "ArrayList".(ßİºÈ8åØ±™±-

@@ -1,0 +1,20 @@
+
+“squid:S1319."pThe type of the "taxes" object should be an interface such as "List" rather than the implementation "ArrayList".(‘ˆ™ûÿÿÿÿ8Á²-
+˜squid:S1319"uThe type of the "categories" object should be an interface such as "List" rather than the implementation "ArrayList".(ÈûÑúÿÿÿÿ8¦®”¶±-
+“squid:S1319T"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¼‹›üÿÿÿÿ8Á²-
+\squid:S1155e">Use isEmpty() to check whether the collection is empty or not.(’áì8Á²-
+vsquid:S2293`"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ï©‰8’ÔËÁ±-
+wsquid:S2293^"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆÿØÚ8Á²-
+wsquid:S2293_"YReplace the type specification in this constructor call with the diamond operator ("<>").(±ëİ³8’„Ä±-
+“squid:S1319P"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(’°¤şÿÿÿÿ8Á²-
+osquid:S3776\"RRefactor this method to reduce its Cognitive Complexity from 68 to the 15 allowed.(‰•·>8Á²-
+squid:S1319B"zThe type of the "childCategories" object should be an interface such as "List" rather than the implementation "ArrayList".(©ê‘²ÿÿÿÿÿ8Á²-
+asquid:S1155n">Use isEmpty() to check whether the collection is empty or not.(ÆÂòƒÿÿÿÿÿ8Á²-
+wsquid:S2293a"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğ‹óî8’ÔËÁ±-
+wsquid:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼éÒ¨8’ÔËÁ±-
+squid:S1319L"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(„›•!8Á²-
+˜squid:S1319!"uThe type of the "productTables" object should be an interface such as "Map" rather than the implementation "HashMap".(†Ğáıÿÿÿÿ8Á²-
+\squid:S1155">Use isEmpty() to check whether the collection is empty or not.(ÃÅ×«8Á²-
+]squid:S1155‹">Use isEmpty() to check whether the collection is empty or not.(øµæŒ8Á²-
+bsquid:S1155–">Use isEmpty() to check whether the collection is empty or not.(£ùšŸıÿÿÿÿ8Á²-
+‘squid:S13198"sThe type of the "variants" object should be an interface such as "List" rather than the implementation "ArrayList".(« Úñ8Á²-

@@ -1,0 +1,7 @@
+
+squid:S1319"zThe type of the "childCategories" object should be an interface such as "List" rather than the implementation "ArrayList".(¾ÔÃúÿÿÿÿ8¡ï²™±-
+–squid:S1319"sThe type of the "products" object should be an interface such as "List" rather than the implementation "ArrayList".(¾ÔÃúÿÿÿÿ8¡ï²™±-
+“squid:S13191"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(š±ªïûÿÿÿÿ8¿­õ•±-
+squid:S13195"zThe type of the "childCategories" object should be an interface such as "List" rather than the implementation "ArrayList".(Ú²®øÿÿÿÿ8¿­õ•±-
+“squid:S1319)"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(®ÚŒÁùÿÿÿÿ8†ô¨•±-
+–squid:S1319-"sThe type of the "products" object should be an interface such as "List" rather than the implementation "ArrayList".(ÏÀÎÚşÿÿÿÿ8†ô¨•±-

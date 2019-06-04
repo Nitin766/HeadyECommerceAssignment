@@ -1,0 +1,7 @@
+
+"squid:ClassVariableVisibilityCheck8"XMake categoriesLL a static final constant or non-public and provide accessors if needed.(æ©â¾8Å›„Ç±-
+…squid:S1488"bImmediately return this expression instead of assigning it to the temporary variable "viewHolder".(µ·¼‘øÿÿÿÿ8Ü‰Ÿ±-
+isquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(³›Õ¢8“¢íí±-
+Œ"squid:ClassVariableVisibilityCheck7"XMake categoryName a static final constant or non-public and provide accessors if needed.(Ç¦è.8¢şİ˜²-
+—squid:S1319"yThe type of the "categoriesList" object should be an interface such as "List" rather than the implementation "ArrayList".(Ÿ„¦“8íÌ§±-
+0squid:S21766"Rename this class.(¯ôšÔ8Ü‰Ÿ±-
