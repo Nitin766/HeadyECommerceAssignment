@@ -32,13 +32,14 @@ public class DashboardActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dashboard);
-        dialog = Utils.showProgressDialog(this, getResources().getString(R.string.downloading_data));
         dbRepository = new DBRepository(this);
         setupUI();
         if (Utils.isNetworkConnected(this)) {
+            dialog = Utils.showProgressDialog(this, getResources().getString(R.string.downloading_data));
             callEcommerceService();
         }else{
             displayCategories();
+            Toast.makeText(this, getResources().getString(R.string.no_internet), Toast.LENGTH_SHORT).show();
         }
     }
 

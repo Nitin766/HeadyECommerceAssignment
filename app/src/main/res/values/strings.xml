@@ -15,4 +15,5 @@
 
     <string name="no_data_available">No Data Available.</string>
     <string name="network_error">Something went wrong...Please try later!</string>
+    <string name="no_internet">No Internet Available. Please connect to internet for updated data.</string>
 </resources>
